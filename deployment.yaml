@@ -20,11 +20,8 @@ spec:
       containers:
         - name: k8s-web-app
 
-<<<<<<< HEAD
-          image: 307946654399.dkr.ecr.ap-south-1.amazonaws.com/k8s-web-app:v1
-=======
-          image: 307946654399.dkr.ecr.ap-south-1.amazonaws.com/k8s-web-app:v1.0
->>>>>>> 9a5f2f1 (Add deployment screenshot and update Kubernetes app)
+          image: Image-Name
+
 
           ports:
             - containerPort: 80
