@@ -20,7 +20,7 @@ spec:
       containers:
         - name: k8s-web-app
 
-          image: YOUR_ECR_IMAGE
+          image: 307946654399.dkr.ecr.ap-south-1.amazonaws.com/k8s-web-app:v1.0
 
           ports:
             - containerPort: 80
