@@ -1,3 +1,4 @@
+
 # Kubernetes Web App 🚀
 
 A simple containerized web application deployed on Amazon EKS using Docker, Amazon ECR, and Kubernetes.
